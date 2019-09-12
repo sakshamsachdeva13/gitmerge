@@ -1,4 +1,4 @@
-
+var {subtract , add , multiply } = require('./functions')
 
 var ab = function(a , b)
 {
@@ -11,3 +11,4 @@ var ab = function(a , b)
  console.log((ab(5,y)));
 
  
+ console.log()
