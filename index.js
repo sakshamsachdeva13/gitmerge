@@ -9,6 +9,7 @@ var ab = function(a , b)
 
  var y = 5
  console.log(ab(5 , 72));
+ console.log(ab(5 , 6));
 
  console.log(multiply(5 , 7));
  console.log()
