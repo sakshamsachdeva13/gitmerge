@@ -8,7 +8,7 @@ var ab = function(a , b)
  console.log(ab(2, 3))
 
  var y = 5
- console.log((ab(5,y)));
+ console.log(ab(5 , 7));
 
  
  console.log()
